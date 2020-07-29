@@ -7,7 +7,7 @@ export default {
 			attackSpeed: 2.1,
 			precision: 83,
 			power: 61,
-			evasion: 118,
+			evasion: 80,
 			damageType: "brute",
 			bruteProtection: 20,
 			burnProtection: -20
